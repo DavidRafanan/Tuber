@@ -1,0 +1,6 @@
+framework module Pods_Tuber {
+  umbrella header "Pods-Tuber-umbrella.h"
+
+  export *
+  module * { export * }
+}

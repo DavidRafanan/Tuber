@@ -1,0 +1,6 @@
+framework module Pods_TuberUITests {
+  umbrella header "Pods-TuberUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

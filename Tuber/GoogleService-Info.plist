@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>815524852288-iqs3jgu3gr7376cjd6m6nbt7edec1en0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.815524852288-iqs3jgu3gr7376cjd6m6nbt7edec1en0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBhn6paECVq8mO_t37AMKn_dka27_OkLlg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>815524852288</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>David-Rafanan.Tuber</string>
+	<key>PROJECT_ID</key>
+	<string>tuber-7478a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tuber-7478a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:815524852288:ios:a439f0dfbcb1bd63</string>
+	<key>DATABASE_URL</key>
+	<string>https://tuber-7478a.firebaseio.com</string>
+</dict>
+</plist>
