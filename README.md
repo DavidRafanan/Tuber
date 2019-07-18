@@ -1,6 +1,6 @@
 # Tuber
 
-Tuber is an app where you can request tubes and people will bring it to you
+Tuber is an iOS app where you can request tubes and people will bring it to you
 
 <h2>How it works</h2>
 
